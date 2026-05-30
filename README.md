@@ -14,10 +14,12 @@ Institutional website created to showcase services, completed projects and make 
 Viewing the site in desktop and mobile version.
 
 <div align="center">
+    
 
-https://github.com/user-attachments/assets/32558f8c-cee4-403b-9cda-85728253ab51
+https://github.com/user-attachments/assets/afebe3be-2db6-438e-8982-0bde5b1f299b
 
-https://github.com/user-attachments/assets/fa9402ab-3d9b-4698-babc-695914333d8e
+
+
 
 </div>
 
